@@ -5,7 +5,11 @@ meme_dict = {
             "ROFL": "Una respuesta a una broma",
             "SHEESH": "Una ligera desaprobación",
             "CREEPY": "Algo aterrador o siniestro",
-            "AGGRO": "Ponerse agresivo o enojado"
+            "AGGRO": "Ponerse agresivo o enojado",
+            "SHIPEAR": "Concepto de una pareja ficticia. Unir a dos personas de manera ficticia",
+            "CUTE": "Cuando algo es bonito, lindo, etc",
+            "CRUSH": "Tipo de amor platonico", 
+            "TWERK": "Poner las manos en la cadera, tener las rodillas flexionadas y hacer movimientos con la cadera hacia adentro y hacia afuera al ritmo de la musica"
             }
 print("Hola y bienvenido a este pequeño diccionario de palabras modernas!")
 time.sleep(1)
